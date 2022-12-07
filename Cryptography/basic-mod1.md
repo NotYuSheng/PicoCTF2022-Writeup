@@ -1,4 +1,4 @@
-## basic-mod1 (07/12/2022)
+# basic-mod1 (07/12/2022)
 ## Approach
 Pretty straightforward, just follow the instructions, wrote program in Python
 ~~~
