@@ -1,4 +1,4 @@
-## basic-mod2 (07/12/2022)
+# basic-mod2 (07/12/2022)
 ## Approach
 Similar to basic-mod1, modified program to include a padding variable in characterSet and statement for calculating moddedValue
 ~~~
