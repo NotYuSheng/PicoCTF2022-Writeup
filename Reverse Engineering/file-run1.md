@@ -24,3 +24,14 @@ Contents of section .eh_frame_hdr:
 ~~~
 Hence, flag is:  
 picoCTF{U51N6_Y0Ur_F1r57_F113_e5559d46}
+
+Alternatively you can just run the program after changing the permission to an executable
+~~~
+chmod +x run
+./run
+~~~
+
+Output:
+~~~
+The flag is: picoCTF{U51N6_Y0Ur_F1r57_F113_e5559d46}   
+~~~
