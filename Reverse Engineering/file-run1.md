@@ -2,8 +2,8 @@
 ## Approach
 Opening the file using vim shows an ELF header
 
-Two notable commands to interact with elf files are:
-elfedit & objdump
+Two notable commands to interact with elf files are:  
+**elfedit & objdump**
 
 Using the following command, we can display the source code with disassembly:
 ~~~
