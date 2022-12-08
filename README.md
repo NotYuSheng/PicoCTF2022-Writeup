@@ -20,5 +20,15 @@ Writeup for picoCTF 2022
 |--------|------|
 |[basic-mod1](./Cryptography/basic-mod1.md)|100|
 |[basic-mod2](./Cryptography/basic-mod2.md)|100|
+|[credstuff](./Cryptography/credstuff.md)|100|
+
+</details>
+
+<details>
+<summary>Reverse Engineering</summary>
+
+|Question|Points|
+|--------|------|
+|[file-run1](./Reverse%20Engineering/file-run1.md)|100|
 
 </details>
