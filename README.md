@@ -29,6 +29,8 @@ Writeup for picoCTF 2022
 
 |Question|Points|
 |--------|------|
+|[bloat.py](./Reverse%20Engineering/bloat.py.md)|200|
 |[file-run1](./Reverse%20Engineering/file-run1.md)|100|
+|[unpackme.py](./Reverse%20Engineering/unpackme.py.md)|100|
 
 </details>
