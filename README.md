@@ -1,7 +1,5 @@
 # PicoCTF2022-Writeup  
 
-Writeup for picoCTF 2022  
-
 ## Table of content
 
 <details>
