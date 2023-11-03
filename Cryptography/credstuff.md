@@ -36,8 +36,7 @@ The flag seems to be encrypted by key mapping. Judging by the format, I've made 
 * Numbers are unchanged
 * Mapping is one to one
 
-We know that we the flag should be in this format: picoCTF{xxxxxx}  
-Hence we can map the output and get some of the key mappings  
+Since we know that the flag will be in this format: picoCTF{xxxxxx}, we can map the output and get some of the key mappings  
 
 c = p  
 v = i  
